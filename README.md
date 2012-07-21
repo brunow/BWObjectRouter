@@ -2,7 +2,7 @@
 
 Small library that generate route with static or dynamic data.
 
-BWObjectRouter is based on top of the great [SOCKit](https://github.com/jverkoey/sockit) library from [Jeff Verkoeyen](https://twitter.com/featherless) and inspired from [RestKit](https://github.com/RestKit/RestKit).
+BWObjectRouter is based on top of the great [SOCKit](https://github.com/jverkoey/sockit) library from [Jeff Verkoeyen](https://twitter.com/featherless) and inspired by [RestKit](https://github.com/RestKit/RestKit).
 
 ## Examples objects
 
