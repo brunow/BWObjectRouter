@@ -44,6 +44,10 @@ Result **/users/1/posts/222**
 
 **Copy BWObjectRouter dir** into your **project**. Because BWObjectRouter depend on **SOCKit** you must **install** it to. So **copy** the **SOCKit** dir to your Xcode project and add **-fno-objc-arc** flag to disable arc for SOCKit.
 
+Or with **Cocoapods**
+
+	pod 'BWObjectRouter', :git => "https://github.com/brunow/BWObjectRouter.git", :tag => "0.1.1"
+
 ## ARC
 
 BWObjectRouter is ARC only.
